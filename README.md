@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-👨‍👩‍👧‍👦 Dad
-👨‍💻 Programmer
-🎨 Creative thinker
-🧩 Problem solver
-👨‍🏫 Educator
-🍲 Food enthusiast
+- 👨‍👩‍👧‍👦 Dad
+- 👨‍💻 Programmer
+- 🎨 Creative thinker
+- 🧩 Problem solver
+- 👨‍🏫 Educator
+- 🍲 Food enthusiast
 
 <!--
 **VincentPeters/VincentPeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

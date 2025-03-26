@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-- 👨‍👩‍👧‍👦 Dad
-- 👨‍💻 Programmer
-- 🎨 Creative thinker
-- 🧩 Problem solver
-- 👨‍🏫 Educator
-- 🍲 Food enthusiast
+Hacker, builder, (web)activist, maker and destroyer of things.
 
 <!--
 **VincentPeters/VincentPeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
